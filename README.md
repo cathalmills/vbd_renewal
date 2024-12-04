@@ -26,5 +26,4 @@
   The ERA5 global reanalysis. Quarterly Journal of the Royal Meteorological Society, 146
   (730):1999–2049, July 2020. ISSN 0035-9009, 1477-870X. doi: 10.1002/qj.3803. URL
   https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3803.
-- M. S. Singapore. Historical Daily Records, Aug. 2024. URL https://www.weather.
-  gov.sg/climate-historical-daily/.
+- M. S. Singapore. Historical Daily Records, Aug. 2024. URL https://www.weather.gov.sg/climate-historical-daily/.
