@@ -5,7 +5,7 @@
 # Load packages required to define the pipeline:
 library(targets)
 library(tarchetypes)
-
+usethis::use_git()
 tar_option_set(packages = c("readr", "dplyr", "ggplot2",
                             "stats", "pracma", "data.table",
                             "tidyverse", "gridExtra", "ggpubr",
