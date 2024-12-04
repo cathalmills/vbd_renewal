@@ -1,8 +1,10 @@
 # Renewal equations for vector-borne diseases
 
-The following repository supports the manuscript "Renewal Equations for vector-borne diseases".
+- The following repository supports the manuscript "Renewal Equations for vector-borne diseases".
 
-Fully reproducible code has been structured in the format of targets, a Make-like pipeline tool/package in R.
+- Fully reproducible code has been structured in the format of targets, a Make-like pipeline tool/package in R. 
+
+- functions.R in the R folder contains all functions used in the targets pipeline.
 
 ## Notes on application:
   - The application to simulated and real-world data demonstrates calculation of the time-varying generation time distribution under simplifying assumptions of temperature-dependent generation time distributions between stages of the transmission cycle (see functions.R).
